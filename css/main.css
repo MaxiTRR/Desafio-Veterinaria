@@ -1,16 +1,17 @@
 /*index.html*/
 
 .cat-image{
-    height: 72rem;
-    background-image: url("https://www.aquivets.com/media/_versions/projects/general/clinica_bghd.jpg");
+    height: 100%;
+    background-image: url("https://cdn.techtitute.com/portal-blog-webp/El-papel-de-la-empresa-veterinaria-en-el-actual-contexto-social-2048x1367.jpg.webp");
     background-size:cover;
     background-position: center;
    
 }
 
 .titulo{
-    font-size: 2.5rem;
-    padding-top: 1.5rem;
+    font-size: 4.5rem;
+    /*padding-top: 1.5rem;
+    padding-bottom: 1.5rem;*/
 }
 
 .text-principal{
@@ -26,7 +27,7 @@ span{
 }
 
 .horario{
-    font-size: 2.5rem;
+    font-size: 4.5rem;
     text-align: center;
     /*padding: 5px 15rem;*/
     line-height: 1.6;
@@ -98,6 +99,10 @@ svg{
 #perro{
     width: 500px;
     height: 300px;
+}
+
+.resp-title{
+    text-align: center;
 }
 
 #text-responsabilidad{
