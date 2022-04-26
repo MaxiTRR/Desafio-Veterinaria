@@ -1,0 +1,17 @@
+#principal {
+    background: white;
+    color: #000;
+}
+
+.fa-moon{
+    color: white;
+    font-size: 20px;
+}
+
+.fa-moon:hover{
+    color:#000;
+}
+
+.fa-brands{
+    color: #000;
+}
