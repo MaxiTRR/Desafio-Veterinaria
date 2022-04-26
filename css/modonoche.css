@@ -1,0 +1,32 @@
+ 
+#principal{
+    background: rgb(19, 18, 18);
+    color: white;
+} 
+
+
+.fa-moon{
+    color: white;
+    font-size: 20px;
+}
+
+.fa-moon:hover{
+    color:#000;
+}
+
+.fa-brands{
+    color: white;
+}
+
+#direccion{
+    color:white
+}
+
+
+#link-bootsrap{
+    color:white;
+}
+
+#creador{
+    color: white;
+}

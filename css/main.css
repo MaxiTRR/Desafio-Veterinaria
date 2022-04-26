@@ -55,6 +55,16 @@ span{
     display: flex;
     justify-content: space-between;
 }
+
+.social-icons a{
+    margin: 1.24rem;
+}
+
+.fa-brands{
+    font-size: 3.24rem;
+    color:#000;
+}
+
 #direccion{
     display: flex;
     justify-content: center;
@@ -63,11 +73,6 @@ span{
     text-align: center;
 }
 
-svg{
-    width: 1.5rem;
-    height: 1.5rem;
-    margin: 0.5rem 1.5rem;
-}
 
 #link-bootsrap{
     text-decoration: none;
